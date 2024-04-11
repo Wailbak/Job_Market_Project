@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=55&pause=5000&color=F76200&random=false&width=600&height=200&lines=JOB+MARKET+DATA+ANALYSIS)](https://git.io/typing-svg)
+
 # Introduction
 📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills and 📈 where high demand meets high salary in data analytics.
 
